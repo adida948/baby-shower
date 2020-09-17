@@ -1,0 +1,86 @@
+h1{
+    font-family: "Dancing Script", cursive; 
+    color: black;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 700;
+}
+h2{
+    font-family: "Dancing Script", cursive; 
+    color: black;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 1;
+}
+h3{
+    font-family: "Dancing Script", cursive; 
+    color: black;
+    text-align: center;
+    font-size: 28px;
+    line-height: 1.5;
+}
+body, html {
+    height: 100%;
+}
+.container {
+    height: 100%;
+}
+p, a {
+    line-height: 2; 
+    font-family: "Satisfy", cursive; 
+    color: black;
+    text-decoration: none;
+}
+.bgimg {
+    /*background-image: url("./images/root.png");*/
+    min-height: 100%;
+    min-width: 100%;
+    background-size: cover;
+    background-color: #CEE322;
+}
+.whitesquare{
+    background-color:white;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.bgimg2 {
+    /*background-image: url("./images/root.png");;*/
+    min-height: 100%;
+    min-width: 100%;
+    background-size: cover;
+    background-repeat: repeat-x;
+}
+.w3-bar-item {
+    text-align:center;
+    line-height: 2; 
+    font-family: "Satisfy", cursive; 
+    width: inherit; 
+}
+.padding-300 {
+    padding-top:300px!important;
+    padding-bottom:164px!important
+}
+.padding-200 {
+    padding-top:200px!important;
+    padding-bottom:164px!important
+}
+.padding-100 {
+    padding-top:100px!important;
+    padding-bottom:164px!important
+}
+.nav-btn-width {
+    width:25%; 
+}
+input[type=text] {
+    border-radius: 6px;
+}
+button[type=submit] {
+    border-radius: 6px;
+}
+footer {
+    font-family: "Satisfy", cursive; 
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}

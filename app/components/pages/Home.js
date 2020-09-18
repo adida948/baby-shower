@@ -1,4 +1,5 @@
 import React from "react";
+
 const Home =  () =>
 <div>
     <div>
@@ -24,12 +25,10 @@ const Home =  () =>
 
             <div>
                 <br/>
-                <h3><b>Monetary Contribution</b></h3>
-                <p className="w3-center">Venmo: @adida948</p>
-                <p className="w3-center">Chase,Paypal: adida948@Hotmail.com</p>
+                <h3><b>Donations </b></h3>
+                <h3 className="w3-center">Venmo: @adida948</h3>
+                <h3 className="w3-center">Chase or Paypal: adida948@hotmail.com</h3>
             </div>
-
-
 
         </div>
 

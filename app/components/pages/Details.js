@@ -2,7 +2,7 @@ import React from "react";
 
 const Details =  () => 
 <div>
-    <div className="w3-container w3-center w3-wide w3-display-middle bgimg2 padding-200">
+    <div className="w3-container w3-center w3-wide bgimg w3-display-middle padding-600">
 
             <div className="w3-row">
                 <div className="w3-half">

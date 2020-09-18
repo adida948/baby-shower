@@ -1,12 +1,12 @@
 h1{
-    font-family: "Dancing Script", cursive; 
+    font-family: "Comic Sans MS", cursive;
     color: black;
     text-align: center;
     font-size: 80px;
     font-weight: 700;
 }
 h2{
-    font-family: "Dancing Script", cursive; 
+    font-family: "Comic Sans MS", cursive;
     color: black;
     text-align: center;
     font-size: 45px;
@@ -14,7 +14,7 @@ h2{
     line-height: 1;
 }
 h3{
-    font-family: "Dancing Script", cursive; 
+    font-family: "Comic Sans MS", cursive;
     color: black;
     text-align: center;
     font-size: 28px;
@@ -39,11 +39,6 @@ p, a {
     background-size: cover;
     background-color: #CEE322;
 }
-.whitesquare{
-    background-color:white;
-    padding-top: 200px;
-    padding-bottom: 200px;
-}
 .bgimg2 {
     /*background-image: url("./images/root.png");;*/
     min-height: 100%;
@@ -56,6 +51,10 @@ p, a {
     line-height: 2; 
     font-family: "Satisfy", cursive; 
     width: inherit; 
+}
+.padding-600 {
+    padding-top:600px!important;
+    padding-bottom:164px!important
 }
 .padding-300 {
     padding-top:300px!important;

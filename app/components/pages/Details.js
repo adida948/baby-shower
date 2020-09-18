@@ -29,7 +29,7 @@ const Details =  () =>
                     <br/>
                     <h2><b>Monetary Contribution</b></h2>
                     <h3>Venmo: @adida948</h3>
-                    <h3>Chase,Paypal: adida948@Hotmail.com</h3>
+                    <p>Chase,Paypal: adida948@Hotmail.com</p>
                 </div>
             </div>
     </div>

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => (
   <nav className="w3-top">
-    <div className="w3-bar w3-white w3-center w3-opacity-min w3-hover-opacity-on">
+    <div className="w3-bar w3-white w3-center w3-opacity-min w3-hover-opacity-off">
 
 
         <div className="w3-bar-item w3-button nav-btn-width">

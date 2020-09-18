@@ -1,16 +1,40 @@
 import React from "react";
-
-const Home =  () => 
+const Home =  () =>
 <div>
-    <div className="whitesquare">
-        <div className=" bgimg w3-display-middle w3-text-black padding-200">
+    <div>
+
+        <div className=" bgimg w3-display-middle w3-text-black padding-600">
 
             <h2>Let's taco about a baby</h2>
             <br/>
-            <h3>Danilo Jr. Carrion's Baby Shower!</h3>
+            <h3>Danilo Jr's Baby Shower!</h3>
             <br/>
-            <h3><b>September 19th, 2020</b></h3>
+            <h3><b>September 19th, 2020 5pm EST</b></h3>
+
+            <div>
+            <br/>
+                <p className="w3-center"><a href="https://www.bit.ly/danilitogifts"
+                                            className="w3-btn w3-black w3-round w3-padding-large ">Amazon Registry</a></p>
+
+                <p className="w3-center"><a href="https://www.bit.ly/daniloJr"
+                                            className="w3-btn w3-black w3-round w3-padding-large ">Zoom</a></p>
+
+
+            </div>
+
+            <div>
+                <br/>
+                <h3><b>Monetary Contribution</b></h3>
+                <p className="w3-center">Venmo: @adida948</p>
+                <p className="w3-center">Chase,Paypal: adida948@Hotmail.com</p>
+            </div>
+
+
+
         </div>
+
+
+
     </div>
 </div>
 export default Home;

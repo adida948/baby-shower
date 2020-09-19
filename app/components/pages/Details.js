@@ -9,6 +9,7 @@ const Details =  () =>
                 <h2><b>Join us and get a chance to win legit raffle for 50 dollars!</b></h2>
                 </div>
             </div>
+
     </div>
 </div>
 

@@ -10,8 +10,16 @@ const Home =  () =>
             <br/>
             <h3>Danilo Jr's Baby Shower!</h3>
             <br/>
-            <h3><b>September 19th, 2020 5pm EST</b></h3>
+            <h3><b>September 19th, 2020</b></h3>
 
+            <div className="w3-center">
+                <div> San Francisco: 2PM PDT </div>
+                <div> Quito/Lima/Guadalajara : 4PM </div>
+                <div> New York : 5pm EST</div>
+                <div> Buenos Aires/Rio De Janiero : 6PM </div>
+                <div> Munich/Paris: 11:00pm CEST</div>
+                <div> Sydney: 7am</div>
+            </div>
             <div>
             <br/>
                 <p className="w3-center"><a href="https://www.bit.ly/danilitogifts"
@@ -19,8 +27,6 @@ const Home =  () =>
 
                 <p className="w3-center"><a href="https://www.bit.ly/daniloJr"
                                             className="w3-btn w3-black w3-round w3-padding-large ">Zoom</a></p>
-
-
             </div>
 
             <div>

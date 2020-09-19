@@ -9,7 +9,6 @@ const Home =  () =>
             <h2>Let's taco about a baby</h2>
             <br/>
             <h3>Danilo Jr's Baby Shower!</h3>
-            <br/>
             <h3><b>September 19th, 2020</b></h3>
 
             <div className="w3-center">
@@ -18,10 +17,8 @@ const Home =  () =>
                 <div> New York : 5pm EST</div>
                 <div> Buenos Aires/Rio De Janiero : 6PM </div>
                 <div> Munich/Paris: 11:00pm CEST</div>
-                <div> Sydney: 7am</div>
             </div>
             <div>
-            <br/>
                 <p className="w3-center"><a href="https://www.bit.ly/danilitogifts"
                                             className="w3-btn w3-black w3-round w3-padding-large ">Amazon Registry</a></p>
 
@@ -30,8 +27,7 @@ const Home =  () =>
             </div>
 
             <div>
-                <br/>
-                <h3><b>Donations </b></h3>
+                <h3><b>**** Donations ****</b></h3>
                 <h3 className="w3-center">Venmo: @adida948</h3>
                 <h3 className="w3-center">Chase or Paypal: adida948@hotmail.com</h3>
             </div>
